@@ -1,0 +1,104 @@
+OrderID,Product,Quantity Ordered,Price Each,Order Date,Purchase Address
+176558,USB-C Charging Cable,2,11.95,04/19/19 08:46,917 1st St, Dallas, TX 75001
+176559,Bose SoundSport Headphones,1,99.99,04/07/19 22:30,682 Chestnut St, Boston, MA 02215
+176560,Google Phone,1,600,04/12/19 14:38,669 Spruce St, Los Angeles, CA 90001
+176560,Wired Headphones,1,11.99,04/12/19 14:38,669 Spruce St, Los Angeles, CA 90001
+176561,Wired Headphones,1,11.99,04/30/19 09:27,333 8th St, Los Angeles, CA 90001
+176562,USB-C Charging Cable,1,11.95,04/29/19 13:03,381 Wilson St, San Francisco, CA 94016
+176563,Bose SoundSport Headphones,1,99.99,04/02/19 07:46,668 Center St, Seattle, WA 98101
+176564,USB-C Charging Cable,1,11.95,04/12/19 10:58,790 Ridge St, Atlanta, GA 30301
+176565,Macbook Pro Laptop,1,1700,04/24/19 10:38,915 Willow St, San Francisco, CA 94016
+176566,Wired Headphones,1,11.99,04/08/19 14:05,83 7th St, Boston, MA 02215
+176567,Google Phone,1,600,04/18/19 17:18,444 7th St, Los Angeles, CA 90001
+176568,Macbook Pro Laptop,1,1700,04/22/19 15:09,95 12th St, Dallas, TX 75001
+176569,27in 4K Gaming Monitor,1,389.99,04/16/19 19:23,657 Hill St, Dallas, TX 75001
+176570,AA Batteries (4-pack),1,3.84,04/22/19 15:47,190 Maple St, San Francisco, CA 94016
+176571,Lightning Charging Cable,1,14.95,04/19/19 14:29,253 Johnson St, Atlanta, GA 30301
+176572,Apple Airpods Headphones,1,150,04/04/19 20:30,149 Dogwood St, New York City, NY 10001
+176573,USB-C Charging Cable,1,11.95,04/27/19 18:41,214 Chestnut St, San Francisco, CA 94016
+176574,Google Phone,1,600,04/03/19 19:42,20 Hill St, New York City, NY 10001
+176574,USB-C Charging Cable,1,11.95,04/03/19 19:42,20 Hill St, New York City, NY 10001
+176575,Apple Airpods Headphones,1,150,04/27/19 19:48,502 11th St, New York City, NY 10001
+176576,34in Ultrawide Monitor,1,379.99,04/28/19 11:20,5 MATCHING-PRODUCT, New York City, NY 10001
+176577,27in 4K Gaming Monitor,1,389.99,04/21/19 13:45,263 12th St, San Francisco, CA 94016
+176578,Lightning Charging Cable,1,14.95,04/14/19 12:00,859 1st St, Los Angeles, CA 90001
+176579,AA Batteries (4-pack),1,3.84,04/11/19 10:23,886 Jefferson St, Boston, MA 02215
+176580,USB-C Charging Cable,1,11.95,04/09/19 21:13,858 5th St, Boston, MA 02215
+176581,iPhone,1,700,04/09/19 21:38,84 Jackson St, Boston, MA 02215
+176582,Bose SoundSport Headphones,1,99.99,04/27/19 12:20,136 Church St, Seattle, WA 98101
+176583,AAA Batteries (4-pack),2,2.99,04/20/19 12:00,146 Jackson St, Portland, OR 97035
+176584,Flatscreen TV,1,300,04/24/19 20:39,936 Church St, San Francisco, CA 94016
+176585,27in FHD Monitor,1,149.99,04/24/19 10:21,330 9th St, San Francisco, CA 94016
+176586,iPhone,1,700,04/10/19 17:00,359 Center St, Austin, TX 73301
+176586,Apple Airpods Headphones,1,150,04/10/19 17:00,359 Center St, Austin, TX 73301
+176587,27in 4K Gaming Monitor,1,389.99,04/29/19 18:55,635 1st St, San Francisco, CA 94016
+176588,20in Monitor,1,109.99,04/15/19 13:17,557 West St, New York City, NY 10001
+176589,Bose SoundSport Headphones,1,99.99,04/04/19 14:48,382 8th St, Los Angeles, CA 90001
+176590,AAA Batteries (4-pack),1,2.99,04/02/19 12:12,689 10th St, San Francisco, CA 94016
+176591,Lightning Charging Cable,1,14.95,04/25/19 13:20,293 North St, San Francisco, CA 94016
+176592,Apple Airpods Headphones,1,150,04/11/19 20:05,29 Pine St, Boston, MA 02215
+176593,Wired Headphones,1,11.99,04/27/19 18:54,166 2nd St, San Francisco, CA 94016
+176594,Google Phone,1,600,04/28/19 16:03,801 13th St, San Francisco, CA 94016
+176595,34in Ultrawide Monitor,1,379.99,04/13/19 13:06,211 11th St, New York City, NY 10001
+176596,Apple Airpods Headphones,1,150,04/02/19 09:11,639 Main St, San Francisco, CA 94016
+176597,AA Batteries (4-pack),1,3.84,04/27/19 13:15,584 1st St, San Francisco, CA 94016
+176598,Lightning Charging Cable,1,14.95,04/10/19 09:20,131 5th St, Los Angeles, CA 90001
+176599,Vareebadd Phone,1,400,04/19/19 16:32,803 Lake St, San Francisco, CA 94016
+176600,AA Batteries (4-pack),1,3.84,04/06/19 19:48,581 8th St, New York City, NY 10001
+176601,USB-C Charging Cable,1,11.95,04/05/19 19:02,164 5th St, San Francisco, CA 94016
+176602,Lightning Charging Cable,1,14.95,04/30/19 21:03,428 Hickory St, San Francisco, CA 94016
+176603,Lightning Charging Cable,1,14.95,04/14/19 11:34,801 10th St, Boston, MA 02215
+176604,20in Monitor,1,109.99,04/07/19 19:40,266 9th St, Los Angeles, CA 90001
+176605,Bose SoundSport Headphones,1,99.99,04/15/19 15:45,320 12th St, San Francisco, CA 94016
+176606,20in Monitor,1,109.99,04/28/19 10:04,922 10th St, New York City, NY 10001
+176607,ThinkPad Laptop,1,999.99,04/24/19 16:53,392 14th St, New York City, NY 10001
+176608,ThinkPad Laptop,1,999.99,04/15/19 10:13,692 2nd St, Los Angeles, CA 90001
+176609,Apple Airpods Headphones,1,150,04/18/19 12:40,990 Walnut St, Boston, MA 02215
+176610,Lightning Charging Cable,1,14.95,04/07/19 10:18,639 Sunset St, Portland, OR 97035
+176611,34in Ultrawide Monitor,1,379.99,04/13/19 10:33,893 Main St, San Francisco, CA 94016
+176612,USB-C Charging Cable,1,11.95,04/14/19 14:14,458 10th St, San Francisco, CA 94016
+176613,Wired Headphones,1,11.99,04/23/19 19:28,349 Chestnut St, San Francisco, CA 94016
+176614,27in 4K Gaming Monitor,1,389.99,04/20/19 21:09,725 14th St, Los Angeles, CA 90001
+176615,Vareebadd Phone,1,400,04/06/19 16:35,464 1st St, Los Angeles, CA 90001
+176616,AA Batteries (4-pack),1,3.84,04/25/19 21:30,994 1st St, San Francisco, CA 94016
+176617,Google Phone,1,600,04/09/19 09:34,815 Lincoln St, New York City, NY 10001
+176618,27in FHD Monitor,1,149.99,04/19/19 10:59,630 1st St, San Francisco, CA 94016
+176619,AAA Batteries (4-pack),1,2.99,04/12/19 10:29,261 2nd St, Los Angeles, CA 90001
+176620,USB-C Charging Cable,1,11.95,04/05/19 14:15,487 West St, New York City, NY 10001
+176621,USB-C Charging Cable,1,11.95,04/21/19 15:58,924 Main St, Los Angeles, CA 90001
+176622,iPhone,1,700,04/10/19 19:21,399 1st St, New York City, NY 10001
+176623,27in FHD Monitor,1,149.99,04/22/19 21:14,849 14th St, Boston, MA 02215
+176624,AA Batteries (4-pack),1,3.84,04/26/19 17:35,160 10th St, San Francisco, CA 94016
+176625,Apple Airpods Headphones,1,150,04/13/19 19:54,133 Jackson St, New York City, NY 10001
+176626,Apple Airpods Headphones,1,150,04/08/19 13:17,209 11th St, New York City, NY 10001
+176627,Wired Headphones,1,11.99,04/18/19 16:11,505 Hickory St, New York City, NY 10001
+176628,Google Phone,1,600,04/23/19 14:12,668 12th St, San Francisco, CA 94016
+176629,Bose SoundSport Headphones,1,99.99,04/13/19 22:48,938 1st St, San Francisco, CA 94016
+176630,AAA Batteries (4-pack),1,2.99,04/22/19 19:15,773 4th St, San Francisco, CA 94016
+176631,Apple Airpods Headphones,1,150,04/29/19 14:03,637 14th St, San Francisco, CA 94016
+176632,Lightning Charging Cable,1,14.95,04/19/19 13:01,927 Lake St, San Francisco, CA 94016
+176633,34in Ultrawide Monitor,1,379.99,04/23/19 09:27,516 North St, Los Angeles, CA 90001
+176634,27in FHD Monitor,1,149.99,04/07/19 11:33,838 14th St, Boston, MA 02215
+176635,Vareebadd Phone,1,400,04/26/19 10:53,980 14th St, Los Angeles, CA 90001
+176636,Apple Airpods Headphones,1,150,04/22/19 14:46,290 7th St, San Francisco, CA 94016
+176637,AAA Batteries (4-pack),1,2.99,04/26/19 13:30,224 2nd St, New York City, NY 10001
+176638,USB-C Charging Cable,1,11.95,04/07/19 12:49,944 1st St, New York City, NY 10001
+176639,Lightning Charging Cable,1,14.95,04/20/19 13:00,105 5th St, Los Angeles, CA 90001
+176640,Wired Headphones,2,11.99,04/11/19 18:25,334 Adams St, San Francisco, CA 94016
+176641,Bose SoundSport Headphones,1,99.99,04/12/19 23:34,80 Spruce St, Los Angeles, CA 90001
+176642,Wired Headphones,1,11.99,04/30/19 20:06,173 Elm St, San Francisco, CA 94016
+176643,Macbook Pro Laptop,1,1700,04/27/19 21:01,553 River St, San Francisco, CA 94016
+176644,27in 4K Gaming Monitor,1,389.99,04/09/19 15:34,920 1st St, San Francisco, CA 94016
+176645,USB-C Charging Cable,2,11.95,04/02/19 11:03,137 13th St, New York City, NY 10001
+176646,Macbook Pro Laptop,1,1700,04/22/19 07:14,755 2nd St, Los Angeles, CA 90001
+176647,Google Phone,1,600,04/25/19 10:22,465 14th St, Los Angeles, CA 90001
+176648,Bose SoundSport Headphones,1,99.99,04/07/19 10:43,791 1st St, Los Angeles, CA 90001
+176649,USB-C Charging Cable,1,11.95,04/13/19 19:24,258 1st St, San Francisco, CA 94016
+176650,Lightning Charging Cable,1,14.95,04/12/19 16:47,153 River St, Boston, MA 02215
+176651,iPhone,1,700,04/07/19 13:14,995 Pine St, Boston, MA 02215
+176652,LG Washing Machine,1,600.0,04/09/19 20:04,502 14th St, New York City, NY 10001
+176653,USB-C Charging Cable,1,11.95,04/27/19 15:48,672 13th St, New York City, NY 10001
+176654,Apple Airpods Headphones,1,150,04/17/19 18:03,122 10th St, Boston, MA 02215
+176655,Apple Airpods Headphones,1,150,04/07/19 11:45,622 Center St, Los Angeles, CA 90001
+176656,Google Phone,1,600,04/18/19 14:24,387 10th St, Los Angeles, CA 90001
+176657,Apple Airpods Headphones,1,150,04/23/19 09:33,369 1st St, New York City, NY 10001
